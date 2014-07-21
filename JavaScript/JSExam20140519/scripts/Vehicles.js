@@ -18,7 +18,6 @@ function SolveProblem(number) {
     var threeproduct = intNumber / 3 | 0;
 
     var count = 0;
-    debugger
 
     for (var n = 0; n <= threeproduct; n++) {
         for (var j = 0; j <= fourProduct; j++) {
