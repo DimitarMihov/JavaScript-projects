@@ -23,7 +23,7 @@ function SolveProblem(arr) {
 
     arr = arr.slice(1);
     var arrValues = [];//array with values
-    debugger
+
     for (var i = 0; i < rows; i++) {
         arrValues[i] = [];
         for (var j = 0; j < cols; j++) {
